@@ -9,5 +9,8 @@ Codigo de una maquina de estados: [mi codigo](https://gist.github.com/Inkasystem
 . Se avanza con el curso de FUNDAMENTOS DE COMPUTACION EN LA NUBE, en la plataforma de COURSERA.<br>
 
 ### MODULO 2
+https://start-afdc75850d81.herokuapp.com/  
+https://inkasystems.github.io/PortalPyme/
+
 
 
